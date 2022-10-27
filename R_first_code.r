@@ -18,3 +18,7 @@ plot(water, fishes)
 
 streams <- data.frame(water, fishes)
 streams
+
+# From now on, we are going to import and/or export data!
+
+# setwd for Windows
