@@ -32,7 +32,3 @@ ecoset
 # summary of the dataframe
 summary(ecoset) # laurel: Ecosets
 
-# From now on, we are going to import and/or export data!
-
-# setwd for Windows
-setwd("C:/lab/")
